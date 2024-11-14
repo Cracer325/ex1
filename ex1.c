@@ -1,15 +1,8 @@
-/******************
-Name: Ori Lewy
-ID: 331646224
-Assignment: ex1
-*******************/
 #include <stdio.h>
-
 // REMIDER : YOU CANT USE ANY CONTROL FLOW OPERATIONS OR FUNCTIONS, ONLY BITWISE.
 
 int main()
 {
-
   // What bit
   printf("What bit:\n");
   printf("Please enter a number:\n");
